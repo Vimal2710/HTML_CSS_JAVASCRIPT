@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+
+#outer{
+    margin-top: 200px;
+    border: 10px solid black;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#input{
+    background-color: goldenrod;
+    padding: 4px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+button{
+    font-size: 20px;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+#answer{
+    margin-top: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 4px;
+    height: 20px;
+    color: blueviolet;
+}
