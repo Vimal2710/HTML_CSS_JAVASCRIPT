@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    background-color: darkolivegreen;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+#box{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    border: 10px solid white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+}
+#form div{
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#box h2{
+    font-size: 35px;
+    text-align: center;
+}
+#box input{
+    width: 350px;
+    padding: 5px;
+    text-align: center;
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: auto;
+    font-size: 30px;
+}
+#box button{
+    font-size: 30px;
+    width: 200px;
+    border: 10px solid red;
+    border-radius: 10px;
+    text-align: center;
+}
+#input,#button{
+    text-align: center;
+}
+#answer{
+    text-align: center;
+    color: white;
+    width: 250px;
+    height: 40px;
+    font-size: 30px;
+    padding: 5px;
+    background-color: white;
+    border: 10px solid red;
+    border-radius: 10px;
+    color: black;
+}
